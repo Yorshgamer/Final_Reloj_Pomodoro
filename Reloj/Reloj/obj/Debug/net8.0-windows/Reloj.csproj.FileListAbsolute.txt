@@ -1,0 +1,17 @@
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\bin\Debug\net8.0-windows\Reloj.exe
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\bin\Debug\net8.0-windows\Reloj.deps.json
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\bin\Debug\net8.0-windows\Reloj.runtimeconfig.json
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\bin\Debug\net8.0-windows\Reloj.dll
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\bin\Debug\net8.0-windows\Reloj.pdb
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.Form1.resources
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.csproj.GenerateResource.cache
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.AssemblyInfoInputs.cache
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.AssemblyInfo.cs
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.dll
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\refint\Reloj.dll
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.pdb
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.genruntimeconfig.cache
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\ref\Reloj.dll
+C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.Form2.resources

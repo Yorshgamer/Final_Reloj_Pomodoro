@@ -1,84 +1,124 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Reloj
 {
     public partial class Form2 : Form
     {
-        private DateTime startTime;
-        private int countdownTime;
+        private int horas, minutos, segundos;
+
         public Form2()
         {
             InitializeComponent();
-            InitializeTimer();
+            timer2.Interval = 1000; // Establecer el intervalo del timer a 1 segundo (1000 milisegundos)
         }
 
-        private void InitializeTimer()
+        private void Form2_Load(object sender, EventArgs e)
         {
-            timer2.Interval = 1000; // Intervalo de 1 segundo
-            timer2.Tick += Timer2_Tick;
-        }
-
-        private void Timer2_Tick(object sender, EventArgs e)
-        {
-            // Reducir el tiempo
-            countdownTime--;
-
-            if (countdownTime <= 0)
+            for (int i = 0; i < 60; i++)
             {
-                timer2.Stop();
-                lblTimer.Text = "Tiempo terminado";
-                MessageBox.Show("¡El tiempo se ha acabado!");
+                cboxMinutos.Items.Add(i);
+                cboxSegundos.Items.Add(i);
+                if (i < 24) cboxHoras.Items.Add(i);
             }
-            else
-            {
-                // Calcular horas, minutos y segundos restantes
-                int hours = countdownTime / 3600;
-                int minutes = (countdownTime % 3600) / 60;
-                int seconds = countdownTime % 60;
 
-                // Actualizar el label con el tiempo restante
-                lblTimer.Text = $"{hours:D2}:{minutes:D2}:{seconds:D2}";
-            }
+            cboxHoras.SelectedIndex = 0;
+            cboxMinutos.SelectedIndex = 0;
+            cboxSegundos.SelectedIndex = 0;
         }
 
         private void btnStart_Click(object sender, EventArgs e)
         {
-            startTime = DateTime.Now;
-            timer2.Start();
+            if (btnStart.Text == "Iniciar")
+            {
+                timer2.Start();
+                btnStart.ForeColor = Color.Firebrick;
+                btnStop.Enabled = true;
+                btnStop.ForeColor = Color.RoyalBlue;
+
+                horas = cboxHoras.SelectedIndex;
+                minutos = cboxMinutos.SelectedIndex;
+                segundos = cboxSegundos.SelectedIndex;
+
+                btnStart.Text = "Restablecer";
+            }
+            else
+            {
+                ResetTimer();
+            }
         }
 
         private void btnStop_Click(object sender, EventArgs e)
         {
-            timer2.Stop();
-        }
-
-        private void btnSetTime_Click(object sender, EventArgs e)
-        {
-            string[] timeParts = txtTime.Text.Split(':');
-
-            if (timeParts.Length == 3 &&
-                int.TryParse(timeParts[0], out int hours) &&
-                int.TryParse(timeParts[1], out int minutes) &&
-                int.TryParse(timeParts[2], out int seconds) &&
-                hours >= 0 && hours < 24 &&
-                minutes >= 0 && minutes < 60 &&
-                seconds >= 0 && seconds < 60)
+            if (btnStop.Text == "Detener")
             {
-                countdownTime = hours * 3600 + minutes * 60 + seconds;
-                lblTimer.Text = txtTime.Text;
+                timer2.Stop();
+                btnStop.ForeColor = Color.DarkOrange;
+                btnStop.Text = "Reanudar";
             }
             else
             {
-                MessageBox.Show("Por favor, ingrese un tiempo válido en el formato HH:mm:ss.");
+                timer2.Start();
+                btnStop.ForeColor = Color.RoyalBlue;
+                btnStop.Text = "Detener";
             }
+        }
+
+        private void timer2_Tick(object sender, EventArgs e)
+        {
+            if (segundos > 0)
+            {
+                segundos--;
+            }
+            else
+            {
+                if (minutos > 0)
+                {
+                    minutos--;
+                    segundos = 59;
+                }
+                else if (horas > 0)
+                {
+                    horas--;
+                    minutos = 59;
+                    segundos = 59;
+                }
+                else
+                {
+                    timer2.Stop();
+                    MessageBox.Show("Se ha acabado el tiempo.", "TEMPORIZADOR", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    btnStop.Enabled = false;
+                    btnStop.ForeColor = Color.RoyalBlue;
+                    btnStop.Text = "Detener";
+                }
+            }
+            UpdateTimerLabel();
+        }
+
+        private void UpdateTimerLabel()
+        {
+            lblTimer.Text = $"{horas:D2}:{minutos:D2}:{segundos:D2}";
+        }
+
+        private void ResetTimer()
+        {
+            timer2.Stop();
+            horas = minutos = segundos = 0;
+            UpdateTimerLabel();
+
+            btnStart.ForeColor = Color.ForestGreen;
+            btnStart.Text = "Iniciar";
+
+            btnStop.Enabled = false;
+            btnStop.ForeColor = Color.RoyalBlue;
+            btnStop.Text = "Detener";
+        }
+
+        private void btnVolver_Click(object sender, EventArgs e)
+        {
+            Form1 form1 = new Form1();
+            this.Close();
+            form1.Show();
         }
     }
 }

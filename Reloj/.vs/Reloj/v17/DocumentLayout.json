@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "O:\\Reloj\\Reloj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|O:\\Reloj\\Reloj\\Reloj\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reloj\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|O:\\Reloj\\Reloj\\reloj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:reloj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|O:\\Reloj\\Reloj\\Reloj\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reloj\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|O:\\Reloj\\Reloj\\reloj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|O:\\Reloj\\Reloj\\reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,53 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form3.cs",
+              "RelativeDocumentMoniker": "Reloj\\Form3.cs",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form3.cs*",
+              "RelativeToolTip": "Reloj\\Form3.cs*",
+              "ViewState": "AQIAACIAAAAAAAAAAIAwwDUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T23:26:58.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form3.cs",
+              "RelativeDocumentMoniker": "Reloj\\Form3.cs",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form3.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Reloj\\Form3.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T23:23:02.748Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form2.cs",
               "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form2.cs",
               "RelativeDocumentMoniker": "Reloj\\Form2.cs",
               "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form2.cs",
               "RelativeToolTip": "Reloj\\Form2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAABIAAAA",
+              "ViewState": "AQIAAGYAAAAAAAAAAIA0wHgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T23:00:20.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Dise\u00F1o]",
               "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form2.cs",
               "RelativeDocumentMoniker": "Reloj\\Form2.cs",
-              "ToolTip": "C:\\Users\\WINDOWS11\\source\\repos\\Reloj\\Reloj\\Form2.cs [Dise\u00F1o]",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reloj\\Form2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T22:55:48.941Z"
+              "WhenOpened": "2024-06-12T22:55:48.941Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form1.cs",
               "RelativeDocumentMoniker": "Reloj\\Form1.cs",
               "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form1.cs",
               "RelativeToolTip": "Reloj\\Form1.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAkwB0AAAAAAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAMwCUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T21:39:57.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form1.cs",
               "RelativeDocumentMoniker": "Reloj\\Form1.cs",
-              "ToolTip": "C:\\Users\\WINDOWS11\\source\\repos\\Reloj\\Reloj\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reloj\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T21:20:06.878Z"
+              "WhenOpened": "2024-06-12T21:20:06.878Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

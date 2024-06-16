@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "O:\\Reloj\\Reloj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|O:\\Reloj\\Reloj\\reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|O:\\Reloj\\Reloj\\reloj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,16 +34,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form3.cs",
               "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form3.cs",
               "RelativeDocumentMoniker": "Reloj\\Form3.cs",
-              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form3.cs*",
-              "RelativeToolTip": "Reloj\\Form3.cs*",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form3.cs",
+              "RelativeToolTip": "Reloj\\Form3.cs",
               "ViewState": "AQIAACIAAAAAAAAAAIAwwDUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T23:26:58.11Z",
@@ -51,19 +55,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form3.cs [Dise\u00F1o]",
               "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form3.cs",
               "RelativeDocumentMoniker": "Reloj\\Form3.cs",
-              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form3.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Reloj\\Form3.cs [Dise\u00F1o]*",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reloj\\Form3.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T23:23:02.748Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form2.cs",
               "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form2.cs",
               "RelativeDocumentMoniker": "Reloj\\Form2.cs",
@@ -76,19 +80,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form2.cs [Dise\u00F1o]",
               "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form2.cs",
               "RelativeDocumentMoniker": "Reloj\\Form2.cs",
               "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form2.cs [Dise\u00F1o]",
               "RelativeToolTip": "Reloj\\Form2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T22:55:48.941Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-12T22:55:48.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form1.cs",
               "RelativeDocumentMoniker": "Reloj\\Form1.cs",
@@ -101,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form1.cs",
               "RelativeDocumentMoniker": "Reloj\\Form1.cs",

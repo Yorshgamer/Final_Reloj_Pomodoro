@@ -20,6 +20,7 @@ namespace Reloj
         {
             // Actualizar el Label con la hora actual
             lblHora.Text = DateTime.Now.ToString("HH:mm:ss");
+            lblFecha.Text = DateTime.Now.ToLongDateString();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -27,6 +28,14 @@ namespace Reloj
             Form2 form2 = new Form2();
             this.Hide();
             form2.ShowDialog();
+            this.Show();
+        }
+
+        private void btnCronometro_Click(object sender, EventArgs e)
+        {
+            Form3 form3 = new Form3();
+            this.Hide();
+            form3.ShowDialog();
             this.Show();
         }
     }

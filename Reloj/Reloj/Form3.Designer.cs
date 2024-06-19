@@ -113,7 +113,7 @@
             Controls.Add(btnVolver);
             Margin = new Padding(3, 4, 3, 4);
             Name = "Form3";
-            Text = "Form3";
+            Text = "CRONOMETRO";
             ((System.ComponentModel.ISupportInitialize)pbPlay).EndInit();
             ((System.ComponentModel.ISupportInitialize)pbReset).EndInit();
             ((System.ComponentModel.ISupportInitialize)pbStop).EndInit();

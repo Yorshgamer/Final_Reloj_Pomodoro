@@ -35,6 +35,7 @@
             lblFecha = new Label();
             btnCronometro = new Button();
             btnPomodoro = new Button();
+            btnAlarma = new Button();
             SuspendLayout();
             // 
             // lblHora
@@ -53,9 +54,9 @@
             btnTemporizador.BackColor = Color.FromArgb(0, 192, 192);
             btnTemporizador.Font = new Font("Unispace", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnTemporizador.ForeColor = SystemColors.WindowText;
-            btnTemporizador.Location = new Point(57, 291);
+            btnTemporizador.Location = new Point(66, 291);
             btnTemporizador.Name = "btnTemporizador";
-            btnTemporizador.Size = new Size(173, 99);
+            btnTemporizador.Size = new Size(151, 48);
             btnTemporizador.TabIndex = 1;
             btnTemporizador.Text = "Temporizador";
             btnTemporizador.UseVisualStyleBackColor = false;
@@ -77,9 +78,9 @@
             btnCronometro.BackColor = Color.FromArgb(0, 192, 192);
             btnCronometro.Font = new Font("Unispace", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnCronometro.ForeColor = SystemColors.WindowText;
-            btnCronometro.Location = new Point(297, 291);
+            btnCronometro.Location = new Point(255, 291);
             btnCronometro.Name = "btnCronometro";
-            btnCronometro.Size = new Size(173, 99);
+            btnCronometro.Size = new Size(145, 48);
             btnCronometro.TabIndex = 3;
             btnCronometro.Text = "Cronometro";
             btnCronometro.UseVisualStyleBackColor = false;
@@ -90,19 +91,34 @@
             btnPomodoro.BackColor = Color.FromArgb(0, 192, 192);
             btnPomodoro.Font = new Font("Unispace", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnPomodoro.ForeColor = SystemColors.WindowText;
-            btnPomodoro.Location = new Point(543, 291);
+            btnPomodoro.Location = new Point(440, 291);
             btnPomodoro.Name = "btnPomodoro";
-            btnPomodoro.Size = new Size(173, 99);
+            btnPomodoro.Size = new Size(119, 48);
             btnPomodoro.TabIndex = 4;
             btnPomodoro.Text = "Pomodoro";
             btnPomodoro.UseVisualStyleBackColor = false;
+            btnPomodoro.Click += btnPomodoro_Click;
+            // 
+            // btnAlarma
+            // 
+            btnAlarma.BackColor = Color.FromArgb(0, 192, 192);
+            btnAlarma.Font = new Font("Unispace", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnAlarma.ForeColor = SystemColors.WindowText;
+            btnAlarma.Location = new Point(596, 291);
+            btnAlarma.Name = "btnAlarma";
+            btnAlarma.Size = new Size(119, 48);
+            btnAlarma.TabIndex = 5;
+            btnAlarma.Text = "Alarma";
+            btnAlarma.UseVisualStyleBackColor = false;
+            btnAlarma.Click += btnAlarma_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.Control;
-            ClientSize = new Size(1139, 451);
+            ClientSize = new Size(790, 451);
+            Controls.Add(btnAlarma);
             Controls.Add(btnPomodoro);
             Controls.Add(btnCronometro);
             Controls.Add(lblFecha);
@@ -125,5 +141,6 @@
         private Label lblFecha;
         private Button btnCronometro;
         private Button btnPomodoro;
+        private Button btnAlarma;
     }
 }

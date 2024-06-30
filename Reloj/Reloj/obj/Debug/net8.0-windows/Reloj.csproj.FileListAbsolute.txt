@@ -15,8 +15,6 @@ C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.pdb
 C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.genruntimeconfig.cache
 C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\ref\Reloj.dll
 C:\Users\WINDOWS11\source\repos\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.Form2.resources
-O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.Form1.resources
-O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.Form2.resources
 O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.csproj.GenerateResource.cache
 O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.GeneratedMSBuildEditorConfig.editorconfig
 O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.AssemblyInfoInputs.cache
@@ -33,8 +31,10 @@ O:\Reloj\Reloj\Reloj\bin\Debug\net8.0-windows\Reloj.dll
 O:\Reloj\Reloj\Reloj\bin\Debug\net8.0-windows\Reloj.pdb
 O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.genruntimeconfig.cache
 O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\ref\Reloj.dll
-O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.Form3.resources
 O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.Properties.Resources.resources
-O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.Form4.resources
-O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.Form5.resources
-O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.FormAlarma.resources
+O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.frmAlarma.resources
+O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.frmAlarmaAlerta.resources
+O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.frmCronometro.resources
+O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.frmPomodoro.resources
+O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.frmReloj.resources
+O:\Reloj\Reloj\Reloj\obj\Debug\net8.0-windows\Reloj.frmTemporizador.resources

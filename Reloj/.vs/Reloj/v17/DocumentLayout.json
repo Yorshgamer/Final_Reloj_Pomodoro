@@ -3,56 +3,52 @@
   "WorkspaceRootPath": "O:\\Reloj\\Reloj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\frmreloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\frmreloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\formalarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\formalarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\frmalarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\frmalarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\formalarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\formalarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|O:\\Reloj\\Reloj\\reloj\\frmalarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\frmalarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\alarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\alarma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\frmtemporizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\frmtemporizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\frmalarmaalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\frmalarmaalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|O:\\Reloj\\Reloj\\reloj\\frmalarmaalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\frmalarmaalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|O:\\Reloj\\Reloj\\reloj\\frmreloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\frmreloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\frmcronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\frmcronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|O:\\Reloj\\Reloj\\reloj\\frmcronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\frmcronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\frmpomodoro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\frmpomodoro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|o:\\reloj\\reloj\\reloj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|O:\\Reloj\\Reloj\\reloj\\frmpomodoro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\frmpomodoro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|O:\\Reloj\\Reloj\\reloj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|O:\\Reloj\\Reloj\\reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|O:\\Reloj\\Reloj\\reloj\\frmtemporizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DDF6D07-06D8-4C89-A72E-31C219758E23}|Reloj\\Reloj.csproj|solutionrelative:reloj\\frmtemporizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,134 +58,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmReloj.cs",
+              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\frmReloj.cs",
+              "RelativeDocumentMoniker": "Reloj\\frmReloj.cs",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\frmReloj.cs",
+              "RelativeToolTip": "Reloj\\frmReloj.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAqwEMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:39:57.573Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormAlarma.cs",
-              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\FormAlarma.cs",
-              "RelativeDocumentMoniker": "Reloj\\FormAlarma.cs",
-              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\FormAlarma.cs",
-              "RelativeToolTip": "Reloj\\FormAlarma.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBMAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "frmReloj.cs [Dise\u00F1o]",
+              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\frmReloj.cs",
+              "RelativeDocumentMoniker": "Reloj\\frmReloj.cs",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\frmReloj.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reloj\\frmReloj.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T05:33:39.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormAlarma.cs [Dise\u00F1o]",
-              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\FormAlarma.cs",
-              "RelativeDocumentMoniker": "Reloj\\FormAlarma.cs",
-              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\FormAlarma.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Reloj\\FormAlarma.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T05:32:43.413Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Alarma.cs",
-              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Alarma.cs",
-              "RelativeDocumentMoniker": "Reloj\\Alarma.cs",
-              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Alarma.cs",
-              "RelativeToolTip": "Reloj\\Alarma.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAABgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T04:54:16.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T22:21:16.61Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Form5.cs",
-              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form5.cs",
-              "RelativeDocumentMoniker": "Reloj\\Form5.cs",
-              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form5.cs",
-              "RelativeToolTip": "Reloj\\Form5.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAYwA0AAAAaAAAA",
+              "Title": "frmAlarmaAlerta.cs",
+              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\frmAlarmaAlerta.cs",
+              "RelativeDocumentMoniker": "Reloj\\frmAlarmaAlerta.cs",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\frmAlarmaAlerta.cs",
+              "RelativeToolTip": "Reloj\\frmAlarmaAlerta.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowBsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T04:24:12.558Z",
+              "WhenOpened": "2024-06-26T22:00:03.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Form5.cs [Dise\u00F1o]",
-              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form5.cs",
-              "RelativeDocumentMoniker": "Reloj\\Form5.cs",
-              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form5.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Reloj\\Form5.cs [Dise\u00F1o]",
+              "Title": "frmAlarmaAlerta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\frmAlarmaAlerta.cs",
+              "RelativeDocumentMoniker": "Reloj\\frmAlarmaAlerta.cs",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\frmAlarmaAlerta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reloj\\frmAlarmaAlerta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T04:17:32.079Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-26T21:57:32.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form4.cs",
-              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form4.cs",
-              "RelativeDocumentMoniker": "Reloj\\Form4.cs",
-              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form4.cs",
-              "RelativeToolTip": "Reloj\\Form4.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T04:22:04.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form4.cs [Dise\u00F1o]",
-              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form4.cs",
-              "RelativeDocumentMoniker": "Reloj\\Form4.cs",
-              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form4.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Reloj\\Form4.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T04:16:39.585Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form3.cs",
-              "RelativeDocumentMoniker": "Reloj\\Form3.cs",
-              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form3.cs",
-              "RelativeToolTip": "Reloj\\Form3.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T23:26:58.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form3.cs [Dise\u00F1o]",
-              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form3.cs",
-              "RelativeDocumentMoniker": "Reloj\\Form3.cs",
-              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form3.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Reloj\\Form3.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T23:23:02.748Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form2.cs",
-              "RelativeDocumentMoniker": "Reloj\\Form2.cs",
-              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form2.cs",
-              "RelativeToolTip": "Reloj\\Form2.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAgwAcAAAANAAAA",
+              "DocumentIndex": 3,
+              "Title": "frmTemporizador.cs",
+              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\frmTemporizador.cs",
+              "RelativeDocumentMoniker": "Reloj\\frmTemporizador.cs",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\frmTemporizador.cs",
+              "RelativeToolTip": "Reloj\\frmTemporizador.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowAcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T23:00:20.977Z",
               "EditorCaption": ""
@@ -197,39 +129,86 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Form2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form2.cs",
-              "RelativeDocumentMoniker": "Reloj\\Form2.cs",
-              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Reloj\\Form2.cs [Dise\u00F1o]",
+              "Title": "frmTemporizador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\frmTemporizador.cs",
+              "RelativeDocumentMoniker": "Reloj\\frmTemporizador.cs",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\frmTemporizador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reloj\\frmTemporizador.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T22:55:48.941Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-12T22:55:48.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form1.cs",
-              "RelativeDocumentMoniker": "Reloj\\Form1.cs",
-              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form1.cs",
-              "RelativeToolTip": "Reloj\\Form1.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAswBMAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "frmCronometro.cs",
+              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\frmCronometro.cs",
+              "RelativeDocumentMoniker": "Reloj\\frmCronometro.cs",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\frmCronometro.cs",
+              "RelativeToolTip": "Reloj\\frmCronometro.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wDUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T21:39:57.573Z",
+              "WhenOpened": "2024-06-15T23:26:58.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\Form1.cs",
-              "RelativeDocumentMoniker": "Reloj\\Form1.cs",
-              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Reloj\\Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 8,
+              "Title": "frmCronometro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\frmCronometro.cs",
+              "RelativeDocumentMoniker": "Reloj\\frmCronometro.cs",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\frmCronometro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reloj\\frmCronometro.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T21:20:06.878Z",
+              "WhenOpened": "2024-06-15T23:23:02.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmPomodoro.cs",
+              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\frmPomodoro.cs",
+              "RelativeDocumentMoniker": "Reloj\\frmPomodoro.cs",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\frmPomodoro.cs",
+              "RelativeToolTip": "Reloj\\frmPomodoro.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:22:04.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmPomodoro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\frmPomodoro.cs",
+              "RelativeDocumentMoniker": "Reloj\\frmPomodoro.cs",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\frmPomodoro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reloj\\frmPomodoro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:16:39.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAlarma.cs [Dise\u00F1o]",
+              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\frmAlarma.cs",
+              "RelativeDocumentMoniker": "Reloj\\frmAlarma.cs",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\frmAlarma.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reloj\\frmAlarma.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:47:52.673Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAlarma.cs",
+              "DocumentMoniker": "O:\\Reloj\\Reloj\\Reloj\\frmAlarma.cs",
+              "RelativeDocumentMoniker": "Reloj\\frmAlarma.cs",
+              "ToolTip": "O:\\Reloj\\Reloj\\Reloj\\frmAlarma.cs",
+              "RelativeToolTip": "Reloj\\frmAlarma.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:09:57.278Z",
+              "EditorCaption": ""
             }
           ]
         }

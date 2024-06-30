@@ -1,6 +1,6 @@
 ﻿namespace Reloj
 {
-    partial class Form4
+    partial class frmPomodoro
     {
         /// <summary>
         /// Required designer variable.

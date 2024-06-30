@@ -1,6 +1,6 @@
 ﻿namespace Reloj
 {
-    partial class Form3
+    partial class frmCronometro
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form3));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmCronometro));
             btnVolver = new Button();
             timer3 = new System.Windows.Forms.Timer(components);
             lblCronometro = new Label();

@@ -1,6 +1,6 @@
 ﻿namespace Reloj
 {
-    partial class Form2
+    partial class frmTemporizador
     {
         /// <summary>
         /// Required designer variable.

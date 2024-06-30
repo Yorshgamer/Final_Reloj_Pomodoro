@@ -10,18 +10,18 @@ using System.Windows.Forms;
 
 namespace Reloj
 {
-    public partial class FormAlarma : Form
+    public partial class frmPomodoro : Form
     {
-        public FormAlarma()
+        public frmPomodoro()
         {
             InitializeComponent();
         }
 
-
-
-        private void btnApagar_Click(object sender, EventArgs e)
+        private void btnVolver_Click(object sender, EventArgs e)
         {
+            frmReloj form1 = new frmReloj();
             this.Close();
+            form1.Show();
         }
     }
 }

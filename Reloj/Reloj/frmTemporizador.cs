@@ -3,11 +3,11 @@ using System.Windows.Forms;
 
 namespace Reloj
 {
-    public partial class Form2 : Form
+    public partial class frmTemporizador : Form
     {
         private int horas, minutos, segundos;
 
-        public Form2()
+        public frmTemporizador()
         {
             InitializeComponent();
             timer2.Interval = 1000; // Establecer el intervalo del timer a 1 segundo (1000 milisegundos)
@@ -116,7 +116,7 @@ namespace Reloj
 
         private void btnVolver_Click(object sender, EventArgs e)
         {
-            Form1 form1 = new Form1();
+            frmReloj form1 = new frmReloj();
             this.Close();
             form1.Show();
         }

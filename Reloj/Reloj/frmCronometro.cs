@@ -11,11 +11,11 @@ using System.Windows.Forms;
 
 namespace Reloj
 {
-    public partial class Form3 : Form
+    public partial class frmCronometro : Form
     {
         private string cronometro;
         private Stopwatch stopwatch;
-        public Form3()
+        public frmCronometro()
         {
             InitializeComponent();
             cronometro = "";
@@ -24,7 +24,7 @@ namespace Reloj
 
         private void btnVolver_Click(object sender, EventArgs e)
         {
-            Form1 form1 = new Form1();
+            frmReloj form1 = new frmReloj();
             this.Close();
             form1.Show();
         }
